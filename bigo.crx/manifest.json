@@ -1,0 +1,11 @@
+{
+    "name": "Big O",
+    "version":"1.0.0",
+    "description":"Remember all time complexity",
+    "manifest_version": 2,
+    "browser_action":    {
+    "default_icon":"bigo.png",
+        "default_popup":"bigo.html"
+    }
+
+}
